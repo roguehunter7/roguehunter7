@@ -72,8 +72,8 @@ I am a **Systems & Infrastructure Engineer** bridging the gap between physical L
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=roguehunter7&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" alt="Sreeram's GitHub Stats" width="48%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=roguehunter7&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%" />
+<img src="https://ghstats.dev/api/card?username=roguehunter7&theme=tokyonight" alt="Sreeram's GitHub Stats" width="48%" />
+<img src="https://ghstats.dev/api/langs?username=roguehunter7&theme=tokyonight&layout=bar" alt="Top Languages" width="48%" />
 
 </div>
 
