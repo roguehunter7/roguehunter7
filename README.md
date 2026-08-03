@@ -66,16 +66,6 @@ I am a **Systems & Infrastructure Engineer** bridging the gap between physical L
 | **[Network Survey & Automation Suite](https://github.com/roguehunter7)** | Automated switch survey tool reducing audit timelines by 50% and reclaiming unused static IPs across subnets. | `Python`, `Netmiko`, `Pandas`, `NetworkX` |
 | **[Automated Account Provisioning](https://github.com/roguehunter7)** | Integrated remote protocol automation with ServiceNow API to streamline access control workflows. | `PowerShell`, `ServiceNow API`, `Active Directory` |
 
----
-
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://ghstats.dev/api/card?username=roguehunter7&theme=tokyonight" alt="Sreeram's GitHub Stats" width="48%" />
-<img src="https://ghstats.dev/api/langs?username=roguehunter7&theme=tokyonight&layout=bar" alt="Top Languages" width="48%" />
-
-</div>
 
 ---
 
